@@ -22,7 +22,7 @@ $(document).ready(function() {
                             </div>
                             </div>
                             <div class="col-md-3">
-                              <span class="badge badge-danger">Forks: ${repo.forks_count}</span>
+                              <span class="badge badge-primary">Forks: ${repo.forks_count}</span>
                               <span class="badge badge-secondary">Watchers: ${repo.watchers_count}</span>
                               <span class="badge badge-success">Stars: ${repo.stargazers_count}</span>
                             </div>
